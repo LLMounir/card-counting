@@ -1,0 +1,108 @@
+---18 optional strategies---
+1.
+  *TC +3 or higher
+  = USE INSURANCE
+
+2.
+  *16 vs 10
+  *TC 0 or higher
+  = STAND
+
+3.
+  *15 vs 10
+  *TC +4 or higher
+  = STAND
+
+4.
+  *TT vs 5
+  *TC +5 or higher
+  = SPLIT
+
+5.
+  *TT vs 6
+  *S17
+  *TC +4 or higher
+  = SPLIT
+
+6.
+  *TT vs 10
+  *TC +4 or higher
+  = DOUBLE
+
+7.
+  *12 vs 3
+  *TC +2 or higher
+  = STAND
+
+8.
+  *12 vs 2
+  *TC +4 or higher
+  = STAND
+
+9.
+  *11 vs A
+  *S17
+  *TC +1 or higher
+  = DOUBLE
+
+  *11 vs A
+  *H17
+  *TC 0 or higher
+  = DOUBLE
+
+10.
+  *9 vs 2
+  *TC +1 or higher
+  = DOUBLE
+
+11.
+  *10 vs A
+  *S17
+  *TC +4 or higher
+  = DOUBLE
+
+  *10 vs A
+  *H17
+  *TC +3 or higher
+  = DOUBLE
+
+12.
+  *9 vs 7
+  *TC +4 or higher
+  = DOUBLE
+
+13.
+  *16 vs 9
+  *TC +5 or higher
+  = STAND
+
+14.
+  *13 vs 2
+  *TC 0 or lower
+  = HIT
+
+15.
+  *12 vs 4
+  *TC 0 or lower
+  = HIT
+
+16.
+  *12 vs 5
+  *TC -1 or lower
+  = HIT
+
+17.
+  *12 vs 6
+  *S17
+  *TC -1 or lower
+  = HIT
+
+  *12 vs 6
+  *H17
+  *TC -3 or lower
+  = HIT
+
+18.
+  *13 vs 3
+  *TC -2 or lower
+  = HIT
